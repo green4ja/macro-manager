@@ -49,5 +49,8 @@ app/dist/
 logs
 *.log
 
+# ESLint cache
+.eslintcache
+
 # MongoDB data (if you decide to run locally)
 data/
