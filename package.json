@@ -1,0 +1,31 @@
+{
+  "name": "macro-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green4ja/macro-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/green4ja/macro-manager/issues"
+  },
+  "homepage": "https://github.com/green4ja/macro-manager#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "axios": "^1.12.1",
+    "express": "^4.21.2",
+    "graphql": "^16.11.0",
+    "mongodb": "^6.19.0"
+  },
+  "devDependencies": {
+    "electron": "^38.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
